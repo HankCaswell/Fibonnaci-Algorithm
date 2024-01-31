@@ -12,12 +12,10 @@ function fibonacci(num) {
 }
 
 
-console.log(fibonacci(0))
-console.log(fibonacci(3))
-console.log(fibonacci(7))
 
 
-
+console.log(fibonacci(11))
 
 
 module.exports = fibonacci;
+
